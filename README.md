@@ -1,2 +1,2 @@
 # MATLAB-Projects
-# Projects ranging from data to visual manipulation 
+Psychtoolbox, Gradient Descent, Linear Regression
